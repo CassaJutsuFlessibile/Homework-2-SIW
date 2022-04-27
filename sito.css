@@ -1,0 +1,41 @@
+div.informazioni {
+
+ 	width:70%;
+	background-color:#dedede;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom: 0.3em;
+	padding-left:1em;
+	padding-right:1em;
+	padding-top:0;
+	border:solid;
+	border-width:1px;
+	border-color: navy;
+	float:left;
+}
+div.home {
+ 	width:25%;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin:0;
+	padding:0;
+	float:left;
+}
+div.activities{
+  text-align:left;
+  height: 43%;
+  width: 50%;
+  margin-top:0;
+  margin-left:0;
+  margin-right:0;
+  margin-bottom: 0.3em;
+  	padding-left:1em;
+	padding-right:1em;
+	padding-top:0;
+	border:solid;
+	border-width:1px;
+	border-color: navy;
+ 
+}
